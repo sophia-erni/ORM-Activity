@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "ORM_Activity.Controllers.AuthorPublisherController",
+    "Method": "GetAuthorsPublishers",
+    "RelativePath": "api/AuthorPublisher/authorspublishers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.AuthorController",
+    "Method": "GetAuthors",
+    "RelativePath": "api/authors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.AuthorController",
+    "Method": "CreateAuthor",
+    "RelativePath": "api/authors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAuthor",
+        "Type": "ORM_Activity.DTOs.CreateAuthor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.BookController",
+    "Method": "GetBooks",
+    "RelativePath": "api/Book/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.BookController",
+    "Method": "CreateBook",
+    "RelativePath": "api/Book/books",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createBook",
+        "Type": "ORM_Activity.DTOs.CreateBook",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/User/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUser",
+        "Type": "ORM_Activity.DTOs.CreateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.UserProfileController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/UserProfile/userprofiles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ORM_Activity.Controllers.UserProfileController",
+    "Method": "CreateUserProfile",
+    "RelativePath": "api/UserProfile/userprofiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUserProfile",
+        "Type": "ORM_Activity.DTOs.CreateUserProfile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

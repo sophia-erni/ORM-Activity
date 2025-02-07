@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\authorpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\authorpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\models\\authorpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\models\\authorpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|c:\\users\\extjaso\\source\\repos\\orm-activity\\orm-activity\\orm-activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F5B56E4-B972-4E74-A6D2-72ACCBF8FB81}|ORM-Activity\\ORM-Activity.csproj|solutionrelative:orm-activity\\orm-activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "ORM-Activity\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:47:23.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ORM-Activity\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:38:16.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ORM-Activity\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:40:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "ORM-Activity\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:40:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ORM-Activity\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:08:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Author.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:52:14.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:46:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\UserProfileDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:46:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PublisherDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\PublisherDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\PublisherDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\PublisherDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\PublisherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:46:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:45:52.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorPublisherDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\AuthorPublisherDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\AuthorPublisherDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\AuthorPublisherDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\AuthorPublisherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:14:21.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\DTOs\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "ORM-Activity\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:45:42.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "ORM-Activity\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T01:29:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\UserProfile.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:59:29.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\User.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:53:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Publisher.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:53:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\Book.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:52:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\AuthorPublisher.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Models\\AuthorPublisher.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Models\\AuthorPublisher.cs",
+              "RelativeToolTip": "ORM-Activity\\Models\\AuthorPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:28:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Program.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Program.cs",
+              "RelativeToolTip": "ORM-Activity\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:37:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "ORM-Activity\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:32:21.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ORM-Activity\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "ORM-Activity\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:26:22.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ORM-Activity.csproj",
+              "DocumentMoniker": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\ORM-Activity.csproj",
+              "RelativeDocumentMoniker": "ORM-Activity\\ORM-Activity.csproj",
+              "ToolTip": "C:\\Users\\extjaso\\source\\repos\\ORM-Activity\\ORM-Activity\\ORM-Activity.csproj",
+              "RelativeToolTip": "ORM-Activity\\ORM-Activity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T06:38:43.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
